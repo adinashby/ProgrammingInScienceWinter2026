@@ -1,4 +1,3 @@
-````markdown
 # Programming in Science – Python Style Guide
 
 This style guide is for the **Programming in Science (420-SN1-RE)** course.
@@ -29,7 +28,7 @@ if speed > 0:
     distance = speed * time
 
     print(distance)
-````
+```
 
 ### Line length
 
